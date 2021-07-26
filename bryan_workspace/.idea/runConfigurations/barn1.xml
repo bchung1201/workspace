@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="barn1" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="barn1" />
+    <module name="bryan_workspace" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
