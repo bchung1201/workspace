@@ -1,7 +1,7 @@
 /*
 ID: bryanch5
 LANG: JAVA
-TASK: milk
+TASK: barn1
 */
 
 import java.io.*;
@@ -21,16 +21,18 @@ public class barn1 {
         for (int i = 0; i < cowcount; i++) {
             cowspots.add(Integer.parseInt(b.readLine()));
         }
-        minimum = cowspots.get(cowcount) - cowspots.get(0);
+        minimum = cowspots.get(cowcount-1) - cowspots.get(0);
         for (int i = 0; i < cowcount - 1; i++) {
             intervals.add(cowspots.get(i + 1) - cowspots.get(i));
         }
         Collections.sort(intervals);
         Collections.reverse(intervals);
         int sum = 0;
-        for(int i = 0; i<boardcount; i++){
-            sum =+ intervals.get(i);
+        for(int i = 0; i < boardcount; i++){
+            minimum -= intervals.get(i)-2;
         }
-        p.println(minimum - sum);
+        p.println(minimum);
+        b.close();
+        p.close();
     }
 }
