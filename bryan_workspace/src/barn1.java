@@ -21,17 +21,23 @@ public class barn1 {
         for (int i = 0; i < cowcount; i++) {
             cowspots.add(Integer.parseInt(b.readLine()));
         }
-        minimum = cowspots.get(cowcount-1) - cowspots.get(0);
+        Collections.sort(cowspots);
+        minimum = 1 + cowspots.get(cowcount-1) - cowspots.get(0);
         for (int i = 0; i < cowcount - 1; i++) {
             intervals.add(cowspots.get(i + 1) - cowspots.get(i));
         }
         Collections.sort(intervals);
         Collections.reverse(intervals);
         int sum = 0;
-        for(int i = 0; i < boardcount; i++){
-            minimum -= intervals.get(i)-2;
+        if(boardcount-1 > intervals.size()) {
+            p.println(cowcount);
         }
-        p.println(minimum);
+        else {
+            for (int i = 0; i < boardcount - 1; i++) {
+                minimum -= intervals.get(i) - 1;
+            }
+            p.println(minimum);
+        }
         b.close();
         p.close();
     }

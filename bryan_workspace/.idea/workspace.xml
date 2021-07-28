@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54eeca8a-bd66-453b-aae1-c58108ebc3ca" name="Default Changelist" comment="Barn1">
-      <change afterPath="$PROJECT_DIR$/barn1.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/barn1.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/barn1.java" afterDir="false" />
+    <list default="true" id="54eeca8a-bd66-453b-aae1-c58108ebc3ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/barn1.in" beforeDir="false" afterPath="$PROJECT_DIR$/barn1.in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/barn1.out" beforeDir="false" afterPath="$PROJECT_DIR$/barn1.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/barn1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/barn1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,19 @@
       <recent name="C:\Users\bryan\IdeaProjects\bryan_workspace" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.barn1">
+    <configuration name="dualpal" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dualpal" />
+      <module name="bryan_workspace" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.barn1" />
+      <item itemvalue="Application.dualpal" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +82,21 @@
       <option name="presentableId" value="Default" />
       <updated>1622763989610</updated>
     </task>
+    <task id="LOCAL-00001" summary="Barn1">
+      <created>1627338953819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627338953819</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Barn1">
+      <created>1627342598776</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627342598776</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
