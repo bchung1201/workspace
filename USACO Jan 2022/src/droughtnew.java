@@ -3,9 +3,9 @@ import java.util.*;
 public class droughtnew {
     public static int count = 0;
     public static int[] hungerLevels;
-    static int numberOfCows;
 
     public static void canReduce() {
+        int numberOfCows = hungerLevels.length;
         if(allEqual(hungerLevels)) {
             System.out.println(count*2);
             return;
