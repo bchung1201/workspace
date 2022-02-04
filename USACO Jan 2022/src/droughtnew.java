@@ -76,6 +76,7 @@ public class droughtnew {
         }
         return largest;
     }
+
     public static boolean allEqual(int[] array) {
         int first = array[0];
         for (int j = 0; j < array.length; j++) {
@@ -94,7 +95,6 @@ public class droughtnew {
         }
         return true;
     }
-
 
     public static void main(String[] args) throws Exception {
         BufferedReader b = new BufferedReader(new InputStreamReader(System.in));
