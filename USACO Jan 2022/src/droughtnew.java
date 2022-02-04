@@ -49,14 +49,14 @@ public class droughtnew {
                 canReduce();
             }
             else {
-                //              System.out.println("current = " + Arrays.toString(hungerLevels));
+//              System.out.println("current = " + Arrays.toString(hungerLevels));
                 int reduceAmt = (hungerLevels[largestIndex+1] - hungerLevels[largestIndex-1]);
                 if (reduceAmt == 0) {
                     reduceAmt = 1;
                 }
                 hungerLevels[largestIndex+1] = hungerLevels[largestIndex+1] - reduceAmt;
                 hungerLevels[largestIndex] = hungerLevels[largestIndex] - reduceAmt;
-                //               System.out.println("edited = " + Arrays.toString(hungerLevels));
+//                System.out.println("edited = " + Arrays.toString(hungerLevels));
                 count = count + reduceAmt;
                 canReduce();
             }
@@ -112,5 +112,8 @@ public class droughtnew {
             }
             canReduce();
         }
+
+        b.close();
+        p.close();
     }
 }
