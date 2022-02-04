@@ -4,6 +4,7 @@ public class droughtnew {
     public static int count = 0;
     public static int[] hungerLevels;
     static int numberOfCows;
+    // hi
 
     public static void canReduce() {
         if(allEqual(hungerLevels)) {
