@@ -25,7 +25,21 @@ public class Othello {
 
             }
         }
+    }
 
+    private boolean isValid(int i, int j, char direction) {
+        if(curPlayer) {
+            if (direction == 'U') {
+                if (j - 1 < 0 && board[i][j - 1] == BLACK) {
+                    
+                }
+            }
+        }
+
+
+
+
+        return false;
     }
 
 

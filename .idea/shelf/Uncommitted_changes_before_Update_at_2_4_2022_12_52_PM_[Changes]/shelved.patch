@@ -1,0 +1,75 @@
+diff --git a/bryan_workspace/src/namenum.java b/bryanWorkspace/src/namenum.java
+rename from bryan_workspace/src/namenum.java
+rename to bryanWorkspace/src/namenum.java
+diff --git a/bryan_workspace/dict.txt b/bryanWorkspace/dict.txt
+rename from bryan_workspace/dict.txt
+rename to bryanWorkspace/dict.txt
+diff --git a/bryan_workspace/namenum.in b/bryanWorkspace/namenum.in
+rename from bryan_workspace/namenum.in
+rename to bryanWorkspace/namenum.in
+diff --git a/bryan_workspace/barn1.out b/bryanWorkspace/barn1.out
+rename from bryan_workspace/barn1.out
+rename to bryanWorkspace/barn1.out
+diff --git a/bryan_workspace/palsquare.out b/bryanWorkspace/palsquare.out
+rename from bryan_workspace/palsquare.out
+rename to bryanWorkspace/palsquare.out
+diff --git a/bryan_workspace/palsquare.in b/bryanWorkspace/palsquare.in
+rename from bryan_workspace/palsquare.in
+rename to bryanWorkspace/palsquare.in
+diff --git a/bryan_workspace/src/Fibonacci2.java b/bryanWorkspace/src/Fibonacci2.java
+rename from bryan_workspace/src/Fibonacci2.java
+rename to bryanWorkspace/src/Fibonacci2.java
+diff --git a/bryan_workspace/src/combo.java b/bryanWorkspace/src/combo.java
+rename from bryan_workspace/src/combo.java
+rename to bryanWorkspace/src/combo.java
+diff --git a/bryan_workspace/namenum.out b/bryanWorkspace/namenum.out
+rename from bryan_workspace/namenum.out
+rename to bryanWorkspace/namenum.out
+diff --git a/bryan_workspace/src/barn1.java b/bryanWorkspace/src/barn1.java
+rename from bryan_workspace/src/barn1.java
+rename to bryanWorkspace/src/barn1.java
+diff --git a/bryan_workspace/milk2.out b/bryanWorkspace/milk2.out
+rename from bryan_workspace/milk2.out
+rename to bryanWorkspace/milk2.out
+diff --git a/bryan_workspace/src/dualpal.java b/bryanWorkspace/src/dualpal.java
+rename from bryan_workspace/src/dualpal.java
+rename to bryanWorkspace/src/dualpal.java
+diff --git a/bryan_workspace/dualpal.in b/bryanWorkspace/dualpal.in
+rename from bryan_workspace/dualpal.in
+rename to bryanWorkspace/dualpal.in
+diff --git a/bryan_workspace/src/ArraySort.java b/bryanWorkspace/src/ArraySort.java
+rename from bryan_workspace/src/ArraySort.java
+rename to bryanWorkspace/src/ArraySort.java
+diff --git a/bryan_workspace/dualpal.out b/bryanWorkspace/dualpal.out
+rename from bryan_workspace/dualpal.out
+rename to bryanWorkspace/dualpal.out
+diff --git a/bryan_workspace/combo.out b/bryanWorkspace/combo.out
+rename from bryan_workspace/combo.out
+rename to bryanWorkspace/combo.out
+diff --git a/bryan_workspace/src/milk.java b/bryanWorkspace/src/milk.java
+rename from bryan_workspace/src/milk.java
+rename to bryanWorkspace/src/milk.java
+diff --git a/bryan_workspace/combo.in b/bryanWorkspace/combo.in
+rename from bryan_workspace/combo.in
+rename to bryanWorkspace/combo.in
+diff --git a/bryan_workspace/src/Fibonacci.java b/bryanWorkspace/src/Fibonacci.java
+rename from bryan_workspace/src/Fibonacci.java
+rename to bryanWorkspace/src/Fibonacci.java
+diff --git a/bryan_workspace/barn1.in b/bryanWorkspace/barn1.in
+rename from bryan_workspace/barn1.in
+rename to bryanWorkspace/barn1.in
+diff --git a/bryan_workspace/milk2.in b/bryanWorkspace/milk2.in
+rename from bryan_workspace/milk2.in
+rename to bryanWorkspace/milk2.in
+diff --git a/bryan_workspace/src/milk2.java b/bryanWorkspace/src/milk2.java
+rename from bryan_workspace/src/milk2.java
+rename to bryanWorkspace/src/milk2.java
+diff --git a/bryan_workspace/milk.in b/bryanWorkspace/milk.in
+rename from bryan_workspace/milk.in
+rename to bryanWorkspace/milk.in
+diff --git a/bryan_workspace/milk.out b/bryanWorkspace/milk.out
+rename from bryan_workspace/milk.out
+rename to bryanWorkspace/milk.out
+diff --git a/bryan_workspace/src/palsquare.java b/bryanWorkspace/src/palsquare.java
+rename from bryan_workspace/src/palsquare.java
+rename to bryanWorkspace/src/palsquare.java
