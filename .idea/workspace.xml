@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="edits">
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/dice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/drought.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/droughtPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/droughtnew.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/herdle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/herdlenew.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/projectWithClaire/src/Othello.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectWithClaire/src/Othello.java" afterDir="false" />
-    </list>
+    <list default="true" id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="edits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -56,10 +49,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="17" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.15174508" />
     <property name="settings.editor.selected.configurable" value="CodeWithMe" />
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-16" />
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="projectWithClaire" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643638812277</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="edits">
+      <created>1644706099632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644706099632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
