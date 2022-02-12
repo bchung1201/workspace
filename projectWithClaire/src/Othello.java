@@ -7,7 +7,7 @@ public class Othello {
     private final int BLACK = -1;
 
     public Othello(){
-        board = new int[5][5];
+        board = new int[8][8];
         curPlayer = true;
         board[3][3] = WHITE;
         board[4][4] = WHITE;
