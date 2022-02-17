@@ -13,6 +13,6 @@ public class cowdance {
         for (int i = 0; i < n; i++) {
             times[i] = Integer.parseInt(b.readLine());
         }
-
+    
     }
 }
