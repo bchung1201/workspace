@@ -1,7 +1,7 @@
 import java.io.*;
 
 public class moobuzz {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws Exception {
         BufferedReader b = new BufferedReader(new FileReader("moobuzz.in"));
         PrintWriter p = new PrintWriter(new BufferedWriter(new FileWriter("moobuzz.out")));
         int n = Integer.parseInt(b.readLine());
@@ -20,7 +20,7 @@ public class moobuzz {
             else {
                 index++;
                 numberCount++;
-                actualNumber = numberCount;
+                actualNumber = index;
             }
         }
         p.println(actualNumber);
