@@ -1,104 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/USACO Jan 2022/USACO Jan 2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/droughtnew.java" beforeDir="false" afterPath="$PROJECT_DIR$/USACO Jan 2022/src/droughtnew.java" afterDir="false" />
-=======
-    <list default="true" id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="edits">
-      <change beforePath="$PROJECT_DIR$/projectWithClaire/src/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/projectWithClaire/src/Frame.java" afterDir="false" />
->>>>>>> Stashed changes
+    <list default="true" id="86fdf2c1-29d8-4622-89f9-f2cd351e91d3" name="Changes" comment="holas!!">
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/ariprog.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/ariprog.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/ariprog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/buildingRoads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/gift1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/potd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/wormhole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bryan_workspace/src/Fibonacci2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bryan_workspace/src/milk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/bryan_workspace/src/milk2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bryan_workspace/src/moobuzz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silverProblems/src/comfortableCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/silverProblems/src/yearOfTheCow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1xj3u05sKiezeN94lNvk8DPhHlC" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25OIqORl2cEqvQwwyZPreb0Wpd4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.15174508" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\workspace\bryan_workspace" />
+      <recent name="C:\GitHub\workspace\bryan_workspace\src" />
+      <recent name="C:\GitHub\workspace\silverProblems" />
+      <recent name="C:\GitHub\workspace\silverProblems\src" />
+    </key>
   </component>
   <component name="RunManager">
-<<<<<<< Updated upstream
     <configuration name="run" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-16" />
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="droughtnew" />
-      <module name="USACO Jan 2022" />
-=======
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main" />
-      <module name="projectWithClaire" />
->>>>>>> Stashed changes
+      <option name="MAIN_CLASS_NAME" value="helpClaire" />
+      <module name="oldProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.main" />
+        <item itemvalue="Application.run" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="" />
-      <created>1630854888463</created>
+      <changelist id="86fdf2c1-29d8-4622-89f9-f2cd351e91d3" name="Changes" comment="" />
+      <created>1645391898020</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1630854888463</updated>
+      <updated>1645391898020</updated>
     </task>
-<<<<<<< Updated upstream
-=======
-    <task id="LOCAL-00001" summary="adding binarysearch">
-      <created>1641076672185</created>
+    <task id="LOCAL-00001" summary="holas!!">
+      <created>1645661579429</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1641076672185</updated>
+      <updated>1645661579429</updated>
     </task>
-    <task id="LOCAL-00002" summary="edits">
-      <created>1643638812277</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1643638812277</updated>
-    </task>
-    <task id="LOCAL-00003" summary="edits">
-      <created>1644706099632</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1644706099632</updated>
-    </task>
-    <task id="LOCAL-00004" summary="edits">
-      <created>1644706457062</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1644706457062</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
->>>>>>> Stashed changes
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +111,27 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="holas!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="holas!!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.io.FileNotFoundException" package="java.io" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bryan_workspace/src/milk2.java</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/workspace$helpClaire.ic" NAME="helpClaire Coverage Results" MODIFIED="1645994348917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/workspace$run.ic" NAME="run Coverage Results" MODIFIED="1645995557039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

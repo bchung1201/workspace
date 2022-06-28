@@ -8,7 +8,6 @@ import java.io.*;
 import java.util.*;
 
 public class milk2 {
-
     public static void main(String[] args) throws Exception {
         BufferedReader b = new BufferedReader(new FileReader("milk2.in"));
         PrintWriter p = new PrintWriter(new BufferedWriter(new FileWriter("milk2.out")));

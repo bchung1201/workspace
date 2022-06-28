@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/USACO Jan 2022/USACO Jan 2022.iml" filepath="$PROJECT_DIR$/USACO Jan 2022/USACO Jan 2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dfsNew/dfsNew.iml" filepath="$PROJECT_DIR$/dfsNew/dfsNew.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oldProblems/oldProblems.iml" filepath="$PROJECT_DIR$/oldProblems/oldProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/silverProblems/silverProblems.iml" filepath="$PROJECT_DIR$/silverProblems/silverProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
     </modules>
   </component>
