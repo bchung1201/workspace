@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86fdf2c1-29d8-4622-89f9-f2cd351e91d3" name="Changes" comment="holas!!">
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/ariprog.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/ariprog.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/ariprog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/buildingRoads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/gift1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/potd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bryan_workspace/src/wormhole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bryan_workspace/src/Fibonacci2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bryan_workspace/src/milk2.java" beforeDir="false" afterPath="$PROJECT_DIR$/bryan_workspace/src/milk2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bryan_workspace/src/moobuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/silverProblems/src/comfortableCows.java" beforeDir="false" afterPath="$PROJECT_DIR$/silverProblems/src/yearOfTheCow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silverProblems/src/CowFrisbee.java" beforeDir="false" afterPath="$PROJECT_DIR$/silverProblems/src/CowFrisbee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +60,8 @@
     <configuration name="run" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="helpClaire" />
-      <module name="oldProblems" />
+      <option name="MAIN_CLASS_NAME" value="CowFrisbee" />
+      <module name="silverProblems" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,7 +114,7 @@
           <option name="timeStamp" value="1" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/bryan_workspace/src/milk2.java</url>
+          <url>file://$PROJECT_DIR$/oldProblems/src/milk2.java</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
