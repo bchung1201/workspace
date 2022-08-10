@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/USACO Jan 2022/USACO Jan 2022.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9bac085c-204d-421c-88fe-74f37b6f77f9" name="Changes" comment="ZX">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/revegetate.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/revegetate.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/src/BuildingRoads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/src/ConnectingTwoBarns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/src/revegetate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/src/swap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/USACO Jan 2022/src/droughtnew.java" beforeDir="false" afterPath="$PROJECT_DIR$/USACO Jan 2022/src/droughtnew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projectWithClaire/Frame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projectWithClaire/Frame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projectWithClaire/Othello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/projectWithClaire/main.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,7 +46,14 @@
     <property name="project.structure.side.proportion" value="0.15174508" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.revegetate">
+    <configuration name="revegetate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revegetate" />
+      <module name="silverProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="run" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-16" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -41,6 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="swap" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="swap" />
+      <module name="silverProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.revegetate" />
+        <item itemvalue="Application.swap" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
