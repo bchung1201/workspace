@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="86fdf2c1-29d8-4622-89f9-f2cd351e91d3" name="Changes" comment="holas!!">
-      <change beforePath="$PROJECT_DIR$/silverProblems/src/CowFrisbee.java" beforeDir="false" afterPath="$PROJECT_DIR$/silverProblems/src/CowFrisbee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/src/swapityswapityswap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/triangles.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/silverProblems/triangles.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/silverProblems/src/RectangularPasture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/silverProblems/src/swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/silverProblems/src/Triangles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +49,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Othello" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -56,7 +63,22 @@
       <recent name="C:\GitHub\workspace\silverProblems\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.P1">
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="P1" />
+      <module name="silverProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangles" />
+      <module name="silverProblems" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/silverProblems" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="run" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -66,8 +88,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.run" />
+      <item itemvalue="Application.P1" />
+      <item itemvalue="Application.Triangles" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P1" />
+        <item itemvalue="Application.Triangles" />
         <item itemvalue="Application.run" />
       </list>
     </recent_temporary>
@@ -101,6 +130,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="holas!!" />
@@ -119,6 +149,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/workspace$helpClaire.ic" NAME="helpClaire Coverage Results" MODIFIED="1645994348917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
